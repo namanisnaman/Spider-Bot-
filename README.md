@@ -26,4 +26,13 @@ item list and bill -------------->
 <img width="860" height="688" alt="Screenshot 2026-06-16 085426" src="https://github.com/user-attachments/assets/057aca10-52db-4c57-8698-5e6e51457472" />
 <img width="897" height="482" alt="Screenshot 2026-06-16 085440" src="https://github.com/user-attachments/assets/d06bd9f0-a6bb-4e2b-9ecb-d8efa4934cc4" />
 <img width="1230" height="132" alt="Screenshot 2026-06-16 085510" src="https://github.com/user-attachments/assets/90b27fdb-8f29-4e12-89ff-e7c704ed0136" />
+pcb design and 3d parts------------------->
+<img width="427" height="233" alt="Screenshot 2026-06-14 154754" src="https://github.com/user-attachments/assets/36ceb509-bda6-47ca-8b6d-0546dd873263" />
+<img width="356" height="472" alt="Screenshot 2026-06-13 115916" src="https://github.com/user-attachments/assets/1f636eda-fc67-4d65-a990-0f4f66371d59" />
+<img width="561" height="467" alt="Screenshot 2026-06-13 115543" src="https://github.com/user-attachments/assets/da91185c-ee33-4d71-b6ac-7103e1f2d3dc" />
+<img width="335" height="223" alt="Screenshot 2026-06-13 115528" src="https://github.com/user-attachments/assets/8063cc51-6293-4eb1-b105-1ddb4c936d3d" />
+<img width="476" height="440" alt="Screenshot 2026-06-13 115124" src="https://github.com/user-attachments/assets/6b56afbc-17bb-4c00-a606-7af01ca4db50" />
+<img width="1212" height="599" alt="Screenshot 2026-06-01 234753" src="https://github.com/user-attachments/assets/97ecf3d7-ecc6-4be0-a7e3-8f95fc3403fc" />
+<img width="1006" height="804" alt="Screenshot 2026-05-30 171139" src="https://github.com/user-attachments/assets/5cc6ad83-1b55-4975-a28b-a091ff4ccc69" />
+<img width="1005" height="744" alt="Screenshot 2026-05-30 171254" src="https://github.com/user-attachments/assets/c1fd53fd-98de-426c-b487-0e94eff3d837" />
 
