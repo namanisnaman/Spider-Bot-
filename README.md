@@ -1,5 +1,6 @@
 # Spider-Bot-
-so guys thesee are the files required to make the spider bot i have given all the files including body and gerber files and codes
+so guys thesee are the files required to make the spider bot i have given all the files including body and gerber files and codes . There are  2 ways to make it one it depends upon you which one you chose . for price it depends on your location if yopu live in usa then the pcb option is beter but if you live in india then you should go with the nano expansion method . i a=m uploading both methods together
+
 Quadruped Spider Robot
 
 The Quadruped Spider Robot is a four-legged robotic platform designed to mimic the movement and stability of a spider. It uses multiple servo motors to control each leg independently, allowing smooth walking, turning, and obstacle navigation. The robot is powered by a microcontroller such as an Arduino or ESP32, which processes movement commands and coordinates leg motions.
@@ -35,4 +36,6 @@ pcb design and 3d parts------------------->
 <img width="1212" height="599" alt="Screenshot 2026-06-01 234753" src="https://github.com/user-attachments/assets/97ecf3d7-ecc6-4be0-a7e3-8f95fc3403fc" />
 <img width="1006" height="804" alt="Screenshot 2026-05-30 171139" src="https://github.com/user-attachments/assets/5cc6ad83-1b55-4975-a28b-a091ff4ccc69" />
 <img width="1005" height="744" alt="Screenshot 2026-05-30 171254" src="https://github.com/user-attachments/assets/c1fd53fd-98de-426c-b487-0e94eff3d837" />
+<img width="5391" height="3444" alt="spider-3-in-1_bb" src="https://github.com/user-attachments/assets/1df87bd5-2cb4-423e-a029-3b48112f70e9" />
+<img width="1085" height="587" alt="Screenshot 2026-06-20 232840" src="https://github.com/user-attachments/assets/692198d7-2462-4214-8e9d-63c58c4cadb2" />
 
